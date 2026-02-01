@@ -1,6 +1,6 @@
 # FlashAttention-AMD-RDNA2
 
-A research-oriented skeleton for enabling memory-efficient attention (FlashAttention-style) on AMD RDNA2 GPUs (specifically Radeon RX 6800) using ROCm.
+A research-oriented prototype for enabling memory-efficient attention (FlashAttention-style) on AMD RDNA2 GPUs (specifically Radeon RX 6800) using ROCm.
 
 > [!IMPORTANT]
 > This project is currently a **Work In Progress (WIP)**. It does not yet provide a full FlashAttention implementation. The goal is to benchmark, study, and prototype memory-efficient attention mechanisms on AMD hardware.
