@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# ROCm / HIP
+*.hip
+*.o
+*.so
+build/
+dist/
+
+# Profiling / Logs
+*.prof
+*.json
+logs/
+results/
+.benchmarks/
+
+# IDEs
+.vscode/
+.idea/
